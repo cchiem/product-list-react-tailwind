@@ -19,7 +19,7 @@ export const Comfirm = ({
         <p className="text-[40px] font-[700]">Order Confirmed</p>{" "}
         <p className="mb-6">We hope you enjoy your food!</p>
         <div className="bg-[#FCF8F5] rounded-lg px-4 w-full ">
-          <div className="max-h-[300px] overflow-y-auto">
+          <div className="max-h-[300px] overflow-y-auto ">
             {Object.keys(shoppingCart).map((itemName) => (
               <CartItems
                 shoppingCart={shoppingCart}
