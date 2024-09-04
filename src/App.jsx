@@ -78,7 +78,7 @@ function App() {
   }
   return (
     <>
-      <div className="bg-[#FCF8F5] flex justify-center px-[90px] py-8 max-sm:flex-col max-sm:px-4">
+      <div className="bg-[#FCF8F5] flex justify-center py-8 max-sm:flex-col max-sm:px-4">
         <div className="flex flex-col w-6/12 max-sm:w-full">
           <h2 className="text-[#1E0B05] font-[700] text-[40px] m-4">
             Desserts
